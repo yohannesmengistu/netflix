@@ -17,9 +17,10 @@
 .nav_logo{
     position: fixed;
     left: 40px;
-    width: 80px;
+    width: 100px;
     object-fit: contain;
    background-color: null;
+   
 
 }
 .nav_avatar{
