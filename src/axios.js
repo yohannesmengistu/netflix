@@ -7,10 +7,8 @@
 
 // //api.themoviedb.org/3/movie/top_rated
 // export default instance;
-
+// import React from "react";
 import axios from "axios";
-import React from "react";
-
 const instance = axios.create({
   baseURL: "https://api.themoviedb.org/3",
 });
